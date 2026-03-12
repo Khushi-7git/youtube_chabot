@@ -1,0 +1,8 @@
+langchain==0.3.7
+langchain-google-genai==2.0.4
+langchain-community==0.3.7
+youtube-transcript-api>=0.6.2
+sentence-transformers==3.2.1
+duckduckgo-search==6.3.5
+google-generativeai==0.8.3
+streamlit==1.40.1
